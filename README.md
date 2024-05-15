@@ -26,6 +26,19 @@
 <br><br>
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+<br><br>
+## 🧰 I'm Currently Learning:
+-  Computer Systems
+
+-  Data Science
+
+-  Machine Learning
+
+-  Large Language Models
+
+## 🤝 Connect With Me:
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daben-liu-492723231/)
+
 <!--
 **daben-liu/daben-liu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
